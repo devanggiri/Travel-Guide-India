@@ -1,4 +1,4 @@
-Your project on creating a travel recommender for India, based on various factors, can provide a wide range of insights and conclusions. Here are some potential insights that such an analysis could yield:
+Potential insights that such an analysis could yield:
 
 1. **Popular Travel Destinations**:
    - Identify the most visited locations year-wise.
